@@ -5,7 +5,7 @@
 - 📫 How to reach me: uysalkaan51@gmail.com
 - 🌍 Pronouns: he/him  
 - ⚡ Fun fact: I can debug faster when I play lo-fi music 🎧  
-- HTTP protocol lab
+- HTTP protocol labb
 
 <!---
 Kaan79/Kaan79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
