@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I can debug faster when I play lo-fi music 🎧  
 - HTTP protocol lab
 
-
 <!---
 Kaan79/Kaan79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
