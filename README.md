@@ -11,14 +11,12 @@ Computer Science student at VIZJA University in Warsaw, specialising in Artifici
 
 ## Projects
 
-### Client-Server Chat Application — Java
-Academic project built with Java sockets.
+### [Java Client-Server Chat Application](https://github.com/Kaan79/java-client-server-chat)
+A console-based chat application built with Java TCP sockets.
 - Implemented communication between clients and a server.
-- Used multithreading to handle multiple client connections.
-- Added nickname-based messaging and a quit command.
-- Practised object-oriented programming, networking and concurrency.
-
-*The project repository will be added here when it is published.*
+- Used a separate thread to handle each client connection.
+- Added nickname-based messaging and a `/quit` command.
+- Practised Java networking, multithreading and input/output streams.
 
 ### Blog Web Application — Team Academic Project
 Contributed to a team project for a database-driven blog platform.
@@ -39,7 +37,7 @@ September 2022 – June 2024
 ## Languages
 
 - Turkish — Native
-- English — B2
+- English — C1
 - Polish — A1 (currently learning)
 
 ## Contact
