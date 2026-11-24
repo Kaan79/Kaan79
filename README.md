@@ -1,28 +1,35 @@
-# Hi, I'm Kaan Uysal 👋
+# Kaan Uysal
 
-Computer Science student at VIZJA University in Warsaw, specialising in Artificial Intelligence and Data Science. I'm building practical software development skills and looking for an opportunity to start my career in IT.
+**Computer Science Student | Junior IT Support & Application Support**
+
+I'm a Computer Science student at VIZJA University in Warsaw, specialising in Artificial Intelligence and Data Science. I'm building practical skills in Windows troubleshooting, PowerShell diagnostics, networking fundamentals and application support. I'm interested in entry-level opportunities in IT Support, Technical Support and Application Support.
 
 ## Technical Skills
 
-- **Programming:** Java (Intermediate), Python (Basic), HTML/CSS (Basic)
-- **Databases:** SQL, SQLite (Basic)
-- **Tools:** Git, GitHub, IntelliJ IDEA, Visual Studio Code
-- **Currently learning:** Docker, Docker Compose, backend development, software testing and web application security
+- **Windows & IT Support:** Windows 10/11 fundamentals, processes, services, Task Manager, Event Viewer, troubleshooting
+- **Networking:** IPv4, DHCP, DNS, default gateway, ICMP/ping, TCP port checks, HTTP/HTTPS basics
+- **Scripting & Programming:** PowerShell (basic diagnostics scripting), Java (Intermediate), Python (Basic), HTML/CSS (Basic)
+- **Databases & Tools:** SQL, SQLite (Basic), Git/GitHub, Visual Studio Code, IntelliJ IDEA
+- **Currently learning:** Docker, Docker Compose, manual software testing and web application security
 
-## Projects
+## Featured Projects
+
+### [Windows IT Support Diagnostics Toolkit](https://github.com/Kaan79/windows-it-support-diagnostics)
+A PowerShell-based, read-only toolkit for collecting Windows and network diagnostics.
+- Collects operating system, uptime, active network adapter, IPv4, gateway and DNS details.
+- Tests gateway/public IP reachability, DNS resolution and TCP connectivity to port 443.
+- Checks selected Windows services and recent Service Control Manager errors/warnings.
+- Generates a timestamped TXT diagnostic report.
 
 ### [Java Client-Server Chat Application](https://github.com/Kaan79/java-client-server-chat)
-A console-based chat application built with Java TCP sockets.
-- Implemented communication between clients and a server.
-- Used a separate thread to handle each client connection.
-- Added nickname-based messaging and a `/quit` command.
-- Practised Java networking, multithreading and input/output streams.
+A console chat application built with Java TCP sockets.
+- Implements client-server messaging and separate threads for handling client connections.
+- Includes nickname-based messaging and a `/quit` command.
 
 ### Blog Web Application — Team Academic Project
-Contributed to a team project for a database-driven blog platform.
-- Worked with a team on a blog application with user and administrator panels.
-- Contributed to blog-related features using SQLite.
-- The project included post submission and article-view tracking.
+Contributed to a database-driven blog platform with user and administrator panels.
+- Worked with SQLite-backed features; the project included post submission and article-view tracking.
+- Collaborated with team members on the application structure.
 
 ## Education
 
@@ -42,5 +49,6 @@ September 2022 – June 2024
 
 ## Contact
 
+- Warsaw, Poland
 - Email: [uysalkaan51@gmail.com](mailto:uysalkaan51@gmail.com)
-- Location: Warsaw, Poland
+- GitHub: [github.com/Kaan79](https://github.com/Kaan79)
